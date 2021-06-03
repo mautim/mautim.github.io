@@ -4,6 +4,7 @@
 {
 	padding: 0;
 	margin: 0;
+	animation: 2s;
 }
 img
 {
@@ -149,11 +150,7 @@ h1
 	width: 95px;
 	border-radius: 20px;
 }
-.phay
-{
-	font-size: 60px;
-	font-family:"Lucida Console";
-}
+
 .text4 h5
 {
 	text-align: center;
@@ -164,8 +161,8 @@ h1
 {
 	border:#FFF7F7 solid;
 	width: 50%;
-	margin-left: 35px;
-	border-radius: 50px 50px 50px 50px;
+	margin-left: 40px;
+	border-radius: 50%
 }
 .ten
 {
@@ -189,7 +186,7 @@ h1
 .bg6
 {
 	background-color: whitesmoke;
-	height: 450px;
+	height: 100%;
 }
 .blog
 {
@@ -229,7 +226,7 @@ h1
 .bg7
 {
 	
-	height: 800px;
+	height: 100%;
 }
 .bg9
 {
@@ -311,6 +308,62 @@ h1
 
 #myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
+}
+@media screen and (max-width:736px)
+{
+	.logo
+	{
+		margin: 0;
+		padding: 0;
+	}
+	.hinhanh img
+	{
+		width: 70%;
+	}
+	.anh2
+	{
+		margin-left: 100px;
+	}
+	.text h3
+	{
+		margin-left: 10px;
+	}
+	.button1
+	{
+		margin-left: 120px;
+	}
+	.bg3 h5
+	{
+		text-align: center;
+	}
+	.text2 h6
+	{
+		font-size: 12pt;
+	}
+	.text3 input
+	{
+		width: 100%;
+	}
+	.bg5
+	{
+		background-size:contain;	
+	}
+	.anh3
+	{
+		margin-left: 50px;
+	}
+	.blog
+	{
+		text-align: center;
+	}
+	
+	.contact
+	{
+		margin-top: auto;
+		
+	}
+	
+	
 }
 
 
