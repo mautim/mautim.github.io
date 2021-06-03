@@ -1,0 +1,316 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	padding: 0;
+	margin: 0;
+}
+img
+{
+	width: 100%;
+}
+.logo{
+	width: 60%;
+	margin-left: 70px;
+}
+
+.bg1{
+	background-position: center;
+	height: 100vh;
+	background-image: url(../images/images/backgroud1_01.png);
+	background-size: cover;
+	color: white;
+	background-repeat: none;
+}
+.menu1
+{
+ 	margin-left: auto;
+}
+.collapse
+{
+	padding:30px;
+}
+.cam
+{
+	color: orange;
+}
+h1
+{
+	font-size: 60px !important;
+	color: black;
+	
+}
+.h1
+{
+	margin-top: 200px;
+}
+.hinhanh
+{
+	margin-top: 100px;
+}
+.anh1
+{
+	box-shadow: 8px 8px 8px 8px #888888;	
+}
+.anh2
+{
+	width: 50%;
+	margin-left: 250px;
+	
+	box-shadow: 8px 8px 8px 8px #888888;	
+}
+.text
+{
+	margin-top: 100px;
+}
+.text ul
+{
+	margin-top: 20px;
+	padding: 10px;
+}
+.menu2
+{
+	color: orange;
+}
+.text1 p
+{
+	margin-top: 20px;
+}
+.button1
+{
+	border: #f48146 solid;
+	background: #f48146;
+	padding: 10px;
+	border-radius: 20px;
+	margin-top: 30px;
+	width: 35%
+
+}
+.bg3 h5
+{
+	margin-top: 50px;
+	font-size: 30px;
+}
+.text-center i
+{
+	font-size: 30px;
+}
+.text-center
+{
+	margin-top: 30px;
+}
+.text-center h6
+{
+	margin-top: 30px;
+}
+.text-center p
+{
+	margin-top: 10px;
+}
+.fa-home
+{
+	color: orange;
+	margin-top: 20px;
+}
+.Home
+{
+	box-shadow: 8px 8px 8px 8px #888888;
+}
+.bg4
+{
+	margin-top: 50px;
+}
+.bg5
+{
+	background-image: url(../images/images/bd4_02.png);
+	height: 250px;
+	background-repeat: none;
+	background-size: cover;
+	background-position: center;	
+}
+.text2 h6
+{
+	color: white;
+	font-size: 27px;
+	margin-top: 50px;
+}
+.text3 input
+{
+	margin-top: 50px;
+	border-radius: 20px;
+	
+}
+.text3 button
+{
+	margin-top: 50px;
+	border: #f48146 solid;
+	background: #f48146;
+	height: 37px;
+	width: 95px;
+	border-radius: 20px;
+}
+.phay
+{
+	font-size: 60px;
+	font-family:"Lucida Console";
+}
+.text4 h5
+{
+	text-align: center;
+	margin-top: 40px;
+	font-size: 30px;
+}
+.anh3 img
+{
+	border:#FFF7F7 solid;
+	width: 50%;
+	margin-left: 35px;
+	border-radius: 50px 50px 50px 50px;
+}
+.ten
+{
+	color: orange;
+}
+.tenrieng h6
+{
+	text-align: center;
+	margin-top: 20px;	
+}
+.tenrieng h1
+{
+	font-size: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+}
+.cham
+{
+	color: orange;
+}
+.bg6
+{
+	background-color: whitesmoke;
+	height: 450px;
+}
+.blog
+{
+	margin-top: 70px;
+}
+.blog button
+{
+	background: #f48146;
+	border:#f48146 solid;
+	border-radius: 20px;
+	margin-top: 20px;
+	height: 8%;
+	width: 40%;
+}
+.blog img
+{
+	box-shadow: 8px 8px 8px 8px #F3f3f3;
+	margin-top: 50px;
+	
+}
+.anh4 img
+{
+	margin-top: 70px;
+	height:590px;
+	box-shadow: 8px 8px 8px 8px #F3f3f3;
+}
+.anh5
+{
+	margin-top: 70px;
+	
+}
+.anh5 img
+{
+	height: 47.5%;
+	box-shadow: 8px 8px 8px 8px #F3f3f3;
+}
+.bg7
+{
+	
+	height: 800px;
+}
+.bg9
+{
+	height: 600px;
+	background-color: orange;
+}
+.bg9_1
+{
+	 
+	height: 400px;
+	background-color: white;
+	margin-top: 100px;
+}
+.form-ct
+{
+	border:0 !important;
+	border-bottom: 2px #eee solid !important;
+	margin-top: 50px;	
+}
+.form-ct input
+{
+	line-height: 20;
+	width: 80%;
+}
+.form-ct1
+{
+	border:0 !important;
+	border-bottom: 2px #eee solid !important;
+}
+.form-ct2
+{
+	border:0 !important;
+	border-bottom: 2px #eee solid !important;
+	padding: 80px 10px !important;
+}
+.bg9_1 button
+{
+	background: #f48146;
+	border:#f48146 solid;
+	border-radius: 20px;
+	margin-top: 20px;
+	height: 8%;
+	width: 40%;	
+}
+.button2
+{
+	text-align: center;
+}
+.icons i
+{
+	font-size: 30px;
+	color: darkgray;
+	padding: 5px;
+	
+}
+.contact
+{
+	margin-top: 100px;
+}
+.contact h6
+{
+	margin-top: 30px;
+}
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: orange; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+
